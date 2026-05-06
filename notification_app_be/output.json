@@ -1,0 +1,62 @@
+[
+  {
+    "ID": "0a090b9a-0a9e-43b9-bba4-f909b7f09418",
+    "Type": "Placement",
+    "Message": "Eli Lilly and Company hiring",
+    "Timestamp": "2026-05-05 23:05:45"
+  },
+  {
+    "ID": "fd037522-63ce-46d1-b58c-694e52601212",
+    "Type": "Placement",
+    "Message": "Eli Lilly and Company hiring",
+    "Timestamp": "2026-05-05 22:34:45"
+  },
+  {
+    "ID": "33ca2527-3758-409d-ad78-e21ee81f5311",
+    "Type": "Placement",
+    "Message": "Amazon.com Inc. hiring",
+    "Timestamp": "2026-05-05 17:35:53"
+  },
+  {
+    "ID": "4d145a5b-5bc4-4696-b53f-433892d9374a",
+    "Type": "Placement",
+    "Message": "Visa Inc. hiring",
+    "Timestamp": "2026-05-05 16:05:41"
+  },
+  {
+    "ID": "0c753062-6c6e-4b1e-bf29-129d8327daad",
+    "Type": "Result",
+    "Message": "mid-sem",
+    "Timestamp": "2026-05-06 09:05:01"
+  },
+  {
+    "ID": "a86e0978-deb4-4d08-ac23-6c608a74ce2e",
+    "Type": "Result",
+    "Message": "external",
+    "Timestamp": "2026-05-06 08:35:25"
+  },
+  {
+    "ID": "f5941cfe-08eb-4e0a-b9d7-036c5a56b3b3",
+    "Type": "Result",
+    "Message": "internal",
+    "Timestamp": "2026-05-06 08:05:37"
+  },
+  {
+    "ID": "67cf00f4-a406-48ee-b690-ed30ec103b0d",
+    "Type": "Result",
+    "Message": "project-review",
+    "Timestamp": "2026-05-06 07:35:09"
+  },
+  {
+    "ID": "eef4610f-554a-4cde-bf09-833c4a97b4fd",
+    "Type": "Result",
+    "Message": "external",
+    "Timestamp": "2026-05-06 04:06:01"
+  },
+  {
+    "ID": "9647383c-9d73-4565-ba86-db78dc585b9c",
+    "Type": "Result",
+    "Message": "end-sem",
+    "Timestamp": "2026-05-06 03:35:57"
+  }
+]

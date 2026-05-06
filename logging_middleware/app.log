@@ -1,0 +1,8 @@
+[2026-05-06T09:59:35.195Z] [INFO] Starting Priority Inbox fetching... {}
+[2026-05-06T09:59:35.286Z] [ERROR] Error fetching or processing notifications {"error":"API Error: 401 {\"message\":\"invalid authorization token\"}"}
+[2026-05-06T10:06:06.395Z] [INFO] Starting Priority Inbox fetching... {}
+[2026-05-06T10:06:06.493Z] [INFO] Fetched 20 notifications {}
+[2026-05-06T10:06:06.494Z] [INFO] Successfully calculated top 10 priority notifications. {"count":10}
+[2026-05-06T10:06:06.495Z] [INFO] Top 10 Notifications Output written to output.json {}
+[2026-05-06T10:34:01.852Z] [INFO] Starting Priority Inbox fetching... {}
+[2026-05-06T10:34:01.990Z] [ERROR] Error fetching or processing notifications {"error":"API Error: 401 {\"message\":\"invalid authorization token\"}"}
